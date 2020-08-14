@@ -5,9 +5,11 @@
  * FINALIDADE DO PROGRAMA: ENTENDENDO IIFE
  */
 
- (function(){
+(function () {
 
     console.log(`Será executado na hora!`);
     console.log(`Gaby volta pra mim!`);
 
- })()
+})()
+
+
